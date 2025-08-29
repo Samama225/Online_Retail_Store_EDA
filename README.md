@@ -1,4 +1,3 @@
-# Online_Retail_Store_EDA
 # Online Retail Store EDA with Python
 
 ## 📌 Project Overview
